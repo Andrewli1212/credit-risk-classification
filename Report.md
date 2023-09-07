@@ -1,4 +1,5 @@
 # Credit Risk Analysis Report
+ ![](Image/credit_risk.png)
 
 ## Table of Content
 - [Overview of the Analysis](#overview-of-the-analysis)
@@ -56,6 +57,8 @@ The model correctly identifies 89% of actual high-risk loans.\
 **F1-Score:** 88%\
 A harmonic mean of precision and recall, providing an overall measure of accuracy for high-risk loans.
 
+![](Image/model_1.png)
+
 #### Machine Learning Model 2: Oversample Data
 
 **Balanced Accuracy Score for Model 2:** 99%\
@@ -75,6 +78,8 @@ The model's precision for high-risk loans is 87%, indicating that 87% of the pre
 The model successfully identifies all actual high-risk loans.\
 **F1-Score:** 93%\
 A high F1-score for high-risk loans, reflecting the model's overall accuracy.
+
+![](Image/model_2.png)
 
 ## Summary
 
