@@ -1,6 +1,6 @@
 <h1>Credit Risk Analysis Report</h1>
 
-#Table of Content
+###<h2>Table of Content</h2>
 - [Overview of the Analysis](#overview-of-the-analysis)
 
 <h2>Overview of the Analysis</h2>
