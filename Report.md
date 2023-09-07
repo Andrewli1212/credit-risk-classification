@@ -13,17 +13,24 @@ The purpose of this analysis is to develop a predictive model for assessing loan
 
 loan_size: The size or amount of the loan applied for.
 
+
 interest_rate: The interest rate associated with the loan.
+
 
 borrower_income: The income of the loan applicant.
 
+
 debt_to_income: The debt-to-income ratio (DTI) of the applicant.
+
 
 num_of_accounts: The number of financial accounts the applicant has.
 
+
 derogatory_marks: The count of derogatory marks on the applicant's credit report.
 
+
 total_debt: The total debt amount the applicant owes.
+
 
 **Prediction Target**
 
